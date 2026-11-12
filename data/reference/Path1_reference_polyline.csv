@@ -1,0 +1,11 @@
+vertex,x_m,y_m,segment_length_m,plot_direction,physical_direction
+0,0.0,0.0,0.0,start,Start (facing east)
+1,0.0,39.8,39.8,N,East
+2,-8.5,39.8,8.5,W,North
+3,-8.5,38.2,1.6,S,West
+4,-2.0,38.2,6.5,E,South
+5,-2.0,15.2,23,S,West
+6,-8.5,15.2,6.5,W,North
+7,-8.5,14.2,1,S,West
+8,-2.0,14.2,6.5,E,South
+9,-2.0,-0.0,14.2,S,West

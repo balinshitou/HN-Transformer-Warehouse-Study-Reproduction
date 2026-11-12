@@ -1,0 +1,920 @@
+[
+  {
+    "sequence": "Path1_Personnel1_01",
+    "cohort": "handheld",
+    "route": "Path1",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path1_Personnel1_01__synced.npz",
+    "sha256": "f1e4e5d63ad546c84d15d692235d796d6761512d7624c591431e0b6ad84f9fab",
+    "personnel": "Personnel1"
+  },
+  {
+    "sequence": "Path1_Personnel1_02",
+    "cohort": "handheld",
+    "route": "Path1",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path1_Personnel1_02__synced.npz",
+    "sha256": "11c41268b141ce7f10fb6150f29955ef1208808d3972b322659a16844adcdad8",
+    "personnel": "Personnel1"
+  },
+  {
+    "sequence": "Path1_Personnel1_03",
+    "cohort": "handheld",
+    "route": "Path1",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path1_Personnel1_03__synced.npz",
+    "sha256": "08d150e272f0791db33096f5dcbf95e4e8ed1f07781823b227a3555cf9becd20",
+    "personnel": "Personnel1"
+  },
+  {
+    "sequence": "Path1_Personnel1_04",
+    "cohort": "handheld",
+    "route": "Path1",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path1_Personnel1_04__synced.npz",
+    "sha256": "b0d734647864b247d1b33decceca5b38d751be7095cbb15cbfbcef497bd850c4",
+    "personnel": "Personnel1"
+  },
+  {
+    "sequence": "Path1_Personnel1_05",
+    "cohort": "handheld",
+    "route": "Path1",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path1_Personnel1_05__synced.npz",
+    "sha256": "af99d9e28272dd330860bcb56d46e9a411bec49614a0f28f3ade32b16561a514",
+    "personnel": "Personnel1"
+  },
+  {
+    "sequence": "Path1_Personnel2_01",
+    "cohort": "handheld",
+    "route": "Path1",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path1_Personnel2_01__synced.npz",
+    "sha256": "4278af1eab3e4ee7c548a38c10b9f1a152a6a327314db244ddd39d87a44ad638",
+    "personnel": "Personnel2"
+  },
+  {
+    "sequence": "Path1_Personnel2_02",
+    "cohort": "handheld",
+    "route": "Path1",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path1_Personnel2_02__synced.npz",
+    "sha256": "a45246162fe85593cc7981b49eaee8aa1f20dbb922a5fc4a00eb967f5aa8dec7",
+    "personnel": "Personnel2"
+  },
+  {
+    "sequence": "Path1_Personnel2_03",
+    "cohort": "handheld",
+    "route": "Path1",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path1_Personnel2_03__synced.npz",
+    "sha256": "7164f4c7a411e637e4cb5da132b48ae36bc92ab699afb609d78af0088fcda820",
+    "personnel": "Personnel2"
+  },
+  {
+    "sequence": "Path1_Personnel2_04",
+    "cohort": "handheld",
+    "route": "Path1",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path1_Personnel2_04__synced.npz",
+    "sha256": "a1ee5efa9e2d1e380edaf573fd109e4bd8ec5025a213d3d02ca8e771f74fda07",
+    "personnel": "Personnel2"
+  },
+  {
+    "sequence": "Path1_Personnel2_05",
+    "cohort": "handheld",
+    "route": "Path1",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path1_Personnel2_05__synced.npz",
+    "sha256": "3f55fe9d5ec379ba22f12afea02a2274ae8a6112ff3d41dd465b08742891a209",
+    "personnel": "Personnel2"
+  },
+  {
+    "sequence": "Path1_Personnel3_01",
+    "cohort": "handheld",
+    "route": "Path1",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path1_Personnel3_01__synced.npz",
+    "sha256": "f89c5b487decd9823587d3420085c5118cd83ac7e21d96a5fb97103f0920b2d5",
+    "personnel": "Personnel3"
+  },
+  {
+    "sequence": "Path1_Personnel3_02",
+    "cohort": "handheld",
+    "route": "Path1",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path1_Personnel3_02__synced.npz",
+    "sha256": "45251ae62d9d7b0e2b36ff9263322277d4976d130cc9da27316855f31c6ab955",
+    "personnel": "Personnel3"
+  },
+  {
+    "sequence": "Path1_Personnel3_03",
+    "cohort": "handheld",
+    "route": "Path1",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path1_Personnel3_03__synced.npz",
+    "sha256": "ef527e90407415eb0286d33fe3b097503791695395a9fcefafb56905f346f283",
+    "personnel": "Personnel3"
+  },
+  {
+    "sequence": "Path1_Personnel3_04",
+    "cohort": "handheld",
+    "route": "Path1",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path1_Personnel3_04__synced.npz",
+    "sha256": "c694d56e494976d5b79495093afbd7512b494ee221e9aa2517286d22c2f55dfd",
+    "personnel": "Personnel3"
+  },
+  {
+    "sequence": "Path1_Personnel3_05",
+    "cohort": "handheld",
+    "route": "Path1",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path1_Personnel3_05__synced.npz",
+    "sha256": "3189584b675c712ae3354989b84339a06809bd86e8406947674e6f120134104b",
+    "personnel": "Personnel3"
+  },
+  {
+    "sequence": "Path1_Personnel4_01",
+    "cohort": "handheld",
+    "route": "Path1",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path1_Personnel4_01__synced.npz",
+    "sha256": "40c6fec4aa6946bee9b49a605b4dd60fc175fd81c37f0e13512c05c4bc678652",
+    "personnel": "Personnel4"
+  },
+  {
+    "sequence": "Path1_Personnel4_02",
+    "cohort": "handheld",
+    "route": "Path1",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path1_Personnel4_02__synced.npz",
+    "sha256": "3044b37706f96b57cca384c16bd7ae532ad838185a7689ec37894f31dffe2643",
+    "personnel": "Personnel4"
+  },
+  {
+    "sequence": "Path1_Personnel4_03",
+    "cohort": "handheld",
+    "route": "Path1",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path1_Personnel4_03__synced.npz",
+    "sha256": "e78c0ced8dc155a4f606771dec3d3b1e6192cee4017e25743c275caceee6f8d4",
+    "personnel": "Personnel4"
+  },
+  {
+    "sequence": "Path1_Personnel4_04",
+    "cohort": "handheld",
+    "route": "Path1",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path1_Personnel4_04__synced.npz",
+    "sha256": "c67f93e07f9f07b97c4ab97ffaaaa412158fade6f30b33efc07ebf04df268c1a",
+    "personnel": "Personnel4"
+  },
+  {
+    "sequence": "Path1_Personnel4_05",
+    "cohort": "handheld",
+    "route": "Path1",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path1_Personnel4_05__synced.npz",
+    "sha256": "cf4fcd0329ea0da8cfcce28eeea9e6e054614908e47c666fe0fd78d8ee4701a3",
+    "personnel": "Personnel4"
+  },
+  {
+    "sequence": "Path2_Personnel1_01",
+    "cohort": "handheld",
+    "route": "Path2",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path2_Personnel1_01__synced.npz",
+    "sha256": "80d04c2bd9082b329746b9a2429e25deedc63398a8d157093296cdc7be39a61c",
+    "personnel": "Personnel1"
+  },
+  {
+    "sequence": "Path2_Personnel1_02",
+    "cohort": "handheld",
+    "route": "Path2",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path2_Personnel1_02__synced.npz",
+    "sha256": "599dafbe12cb9573863eed7ab201e64751735f86fd084b6499e0757801c72deb",
+    "personnel": "Personnel1"
+  },
+  {
+    "sequence": "Path2_Personnel1_03",
+    "cohort": "handheld",
+    "route": "Path2",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path2_Personnel1_03__synced.npz",
+    "sha256": "d968375ba8b742547ccfa3be8354560feefc2c54ea5dafa117c10c5437026a0b",
+    "personnel": "Personnel1"
+  },
+  {
+    "sequence": "Path2_Personnel1_04",
+    "cohort": "handheld",
+    "route": "Path2",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path2_Personnel1_04__synced.npz",
+    "sha256": "1b8e01266e494c09fd1bb67af0feb0999c8181241874b2e7c521d625755b9a84",
+    "personnel": "Personnel1"
+  },
+  {
+    "sequence": "Path2_Personnel2_01",
+    "cohort": "handheld",
+    "route": "Path2",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path2_Personnel2_01__synced.npz",
+    "sha256": "e14468c3561d17108ffab4ac533fa82b0c010e8632647357457215fbdf9b2c00",
+    "personnel": "Personnel2"
+  },
+  {
+    "sequence": "Path2_Personnel2_02",
+    "cohort": "handheld",
+    "route": "Path2",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path2_Personnel2_02__synced.npz",
+    "sha256": "b026c8c48267be97a7571ad79479e3c7f0dd9921593f8ed9a83b0e62891ff945",
+    "personnel": "Personnel2"
+  },
+  {
+    "sequence": "Path2_Personnel2_03",
+    "cohort": "handheld",
+    "route": "Path2",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path2_Personnel2_03__synced.npz",
+    "sha256": "0d594273ae3f84a1950eb480f2007bffbf065255d3f016463dabfe44b3a8a497",
+    "personnel": "Personnel2"
+  },
+  {
+    "sequence": "Path2_Personnel2_04",
+    "cohort": "handheld",
+    "route": "Path2",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path2_Personnel2_04__synced.npz",
+    "sha256": "4d9d2fd50acd43f7a6f23d97f5fb9af2fa29fa45ebc042acfc2828242487ea8b",
+    "personnel": "Personnel2"
+  },
+  {
+    "sequence": "Path2_Personnel2_05",
+    "cohort": "handheld",
+    "route": "Path2",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path2_Personnel2_05__synced.npz",
+    "sha256": "5c8bd9024f76260798285577e83e9a54312e3c7118438d4ae213803ed371edea",
+    "personnel": "Personnel2"
+  },
+  {
+    "sequence": "Path2_Personnel3_01",
+    "cohort": "handheld",
+    "route": "Path2",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path2_Personnel3_01__synced.npz",
+    "sha256": "5f465bb18512979a21caf98862aa37eb5605e764e67c16af17a47fd614170bac",
+    "personnel": "Personnel3"
+  },
+  {
+    "sequence": "Path2_Personnel3_02",
+    "cohort": "handheld",
+    "route": "Path2",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path2_Personnel3_02__synced.npz",
+    "sha256": "53e3a413b9711f75d24b8ca94eaf6e00819c4ca80dff41aeb45e09aedbc9f800",
+    "personnel": "Personnel3"
+  },
+  {
+    "sequence": "Path2_Personnel3_03",
+    "cohort": "handheld",
+    "route": "Path2",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path2_Personnel3_03__synced.npz",
+    "sha256": "53e3a413b9711f75d24b8ca94eaf6e00819c4ca80dff41aeb45e09aedbc9f800",
+    "personnel": "Personnel3"
+  },
+  {
+    "sequence": "Path2_Personnel3_04",
+    "cohort": "handheld",
+    "route": "Path2",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path2_Personnel3_04__synced.npz",
+    "sha256": "91fbe5efbb181486731845f05edbce93f93c785a0f1cfbeefd0298395208bc46",
+    "personnel": "Personnel3"
+  },
+  {
+    "sequence": "Path2_Personnel4",
+    "cohort": "handheld",
+    "route": "Path2",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path2_Personnel4__synced.npz",
+    "sha256": "a1a627b0833100b057f0486108078d499149d07bb80802be059980fd0a79b5cb",
+    "personnel": "Personnel4"
+  },
+  {
+    "sequence": "Path3_Personnel1_01",
+    "cohort": "handheld",
+    "route": "Path3",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path3_Personnel1_01__synced.npz",
+    "sha256": "00a379aee2538dceee06b55af696e8e4ca7612b156546c0a64776fddc092e8b4",
+    "personnel": "Personnel1"
+  },
+  {
+    "sequence": "Path3_Personnel1_02",
+    "cohort": "handheld",
+    "route": "Path3",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path3_Personnel1_02__synced.npz",
+    "sha256": "8cde06c64eb10436773c47f4f42651ccb228a502fb9588f033495dc69a396309",
+    "personnel": "Personnel1"
+  },
+  {
+    "sequence": "Path3_Personnel1_03",
+    "cohort": "handheld",
+    "route": "Path3",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path3_Personnel1_03__synced.npz",
+    "sha256": "4a2d05f7c70394366da4e4c67ec3a811c9c24c9dfae5961cd9a88fd2411852ce",
+    "personnel": "Personnel1"
+  },
+  {
+    "sequence": "Path3_Personnel1_04",
+    "cohort": "handheld",
+    "route": "Path3",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path3_Personnel1_04__synced.npz",
+    "sha256": "10d1e7a5563b9430f93d431799d33efe2a9ab2277fdd59ea9861efb6e4a4c8fd",
+    "personnel": "Personnel1"
+  },
+  {
+    "sequence": "Path3_Personnel1_05",
+    "cohort": "handheld",
+    "route": "Path3",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path3_Personnel1_05__synced.npz",
+    "sha256": "6426cb0ca85b26775dc7c0584331b89b9d87f572a16c768861eee9f3ff241c45",
+    "personnel": "Personnel1"
+  },
+  {
+    "sequence": "Path3_Personnel2_01",
+    "cohort": "handheld",
+    "route": "Path3",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path3_Personnel2_01__synced.npz",
+    "sha256": "e0206827049c778c8ef83279efa669e3f50476bb3fe477fa37fa25fa95d80925",
+    "personnel": "Personnel2"
+  },
+  {
+    "sequence": "Path3_Personnel2_02",
+    "cohort": "handheld",
+    "route": "Path3",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path3_Personnel2_02__synced.npz",
+    "sha256": "6e65ee8a1b06a4db7d0c7ac1c475dc466e881a52d37eff20206e84101df9cd9d",
+    "personnel": "Personnel2"
+  },
+  {
+    "sequence": "Path3_Personnel2_03",
+    "cohort": "handheld",
+    "route": "Path3",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path3_Personnel2_03__synced.npz",
+    "sha256": "83e0673458d09c2d77f02ad137af509ab703ac5fd1562bd17af6ac0500726f4b",
+    "personnel": "Personnel2"
+  },
+  {
+    "sequence": "Path3_Personnel2_04",
+    "cohort": "handheld",
+    "route": "Path3",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path3_Personnel2_04__synced.npz",
+    "sha256": "72f93f8d930137d81757533bc5364f2c2943d0303ec6d2f301ef82baaf6bd96c",
+    "personnel": "Personnel2"
+  },
+  {
+    "sequence": "Path3_Personnel2_05",
+    "cohort": "handheld",
+    "route": "Path3",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path3_Personnel2_05__synced.npz",
+    "sha256": "f5a688ed1a2ff99f242d0efc1fb2d8c40efa5a91cc34a01d7ec731d368491e9f",
+    "personnel": "Personnel2"
+  },
+  {
+    "sequence": "Path3_Personnel3_01",
+    "cohort": "handheld",
+    "route": "Path3",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path3_Personnel3_01__synced.npz",
+    "sha256": "b8abf2af13301d808fb8792fa9212948d6e3f302f578c3d75ae84b8ffd1ba782",
+    "personnel": "Personnel3"
+  },
+  {
+    "sequence": "Path3_Personnel3_02",
+    "cohort": "handheld",
+    "route": "Path3",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path3_Personnel3_02__synced.npz",
+    "sha256": "3a18c969b5860789592efee53adf0412d2202e3346dbf7b8db62d9998d7f11fd",
+    "personnel": "Personnel3"
+  },
+  {
+    "sequence": "Path3_Personnel3_03",
+    "cohort": "handheld",
+    "route": "Path3",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path3_Personnel3_03__synced.npz",
+    "sha256": "e0d313ca3b61c0f27e36bd1c32d47f414ffbfc53471c57a0652984cb916aff6f",
+    "personnel": "Personnel3"
+  },
+  {
+    "sequence": "Path3_Personnel4_01",
+    "cohort": "handheld",
+    "route": "Path3",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path3_Personnel4_01__synced.npz",
+    "sha256": "11ac025abcbbc6bb28b756884ffd682d0e6d6e25294611a6f44dc8e81409a720",
+    "personnel": "Personnel4"
+  },
+  {
+    "sequence": "Path3_Personnel4_02",
+    "cohort": "handheld",
+    "route": "Path3",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path3_Personnel4_02__synced.npz",
+    "sha256": "cd1e960375dd570838d977f2183ca8303ed29976580b9807f796931946379ed5",
+    "personnel": "Personnel4"
+  },
+  {
+    "sequence": "Path3_Personnel4_03",
+    "cohort": "handheld",
+    "route": "Path3",
+    "mode": "Hand_Held",
+    "input": "data/handheld/Path3_Personnel4_03__synced.npz",
+    "sha256": "fb337d46e26cd2efe2309d0908320276277cf2727566d141deae763529c98036",
+    "personnel": "Personnel4"
+  },
+  {
+    "sequence": "Path1_Freedom01",
+    "cohort": "carrying",
+    "route": "Path1",
+    "mode": "Freedom",
+    "input": "data/carrying/Path1_Freedom01__synced.npz",
+    "sha256": "89cb1ef2bb19d928fbd7cf2b465bf001bb8ef93178be1ed4c542222af7e16b51",
+    "raw_sha256": {
+      "Accelerometer.csv": "9bf6041f6c2e7db7aa37bfbff3d66dfd3e70870105aa3979487f86a78f3a31ac",
+      "Gyroscope.csv": "7996c79d3d84f4eeb0bd7a77c8a93616ec973ba60f36cb7f5d6febdec9790559",
+      "Linear Accelerometer.csv": "a89430ab294cbc28f53b66057a54d616953bba6ce95dae9e4c6089440322a3d5"
+    }
+  },
+  {
+    "sequence": "Path1_Freedom02",
+    "cohort": "carrying",
+    "route": "Path1",
+    "mode": "Freedom",
+    "input": "data/carrying/Path1_Freedom02__synced.npz",
+    "sha256": "a853a9f46afdaed949653f8548203e1b250a3f55ff40dfd16410fc2eab7f6b5f",
+    "raw_sha256": {
+      "Accelerometer.csv": "5094ea0103aaa26ad7cef616f18ed7bcb5b034540a8e2f24a9b1fa1919472f29",
+      "Gyroscope.csv": "75d5abf459b52bdf5b9d260a0397fc59e314aee50f9f69245e2e181d52a619f6",
+      "Linear Accelerometer.csv": "852cb5ede944d62e97751514a6b31183e5bc3e042b00f6698e8faf34d81990bb"
+    }
+  },
+  {
+    "sequence": "Path1_Freedom03",
+    "cohort": "carrying",
+    "route": "Path1",
+    "mode": "Freedom",
+    "input": "data/carrying/Path1_Freedom03__synced.npz",
+    "sha256": "b8f09d7d5187aab2511211675173098a3dc6f85d17863f50d65e579b6663adf0",
+    "raw_sha256": {
+      "Accelerometer.csv": "ede634f83533ec3331cab3b910d8fe5715e31187d912e7578ff150fff19bb9ec",
+      "Gyroscope.csv": "d86231f2c18655038c4950e952c9f975f445936ed8551669d7a47c00ba6fc5c1",
+      "Linear Accelerometer.csv": "a113c307c26dee9c8bbcc8c5a056e7d07fe02310c27152a2e2549da78aa8cb42"
+    }
+  },
+  {
+    "sequence": "Path1_Hand_Swing01",
+    "cohort": "carrying",
+    "route": "Path1",
+    "mode": "Hand_Swing",
+    "input": "data/carrying/Path1_Hand_Swing01__synced.npz",
+    "sha256": "30f77ae550c13ed5f1377c48ea51334bef45f964c20ece8d8f72bee9ae81833a",
+    "raw_sha256": {
+      "Accelerometer.csv": "88510a89bb429b88f2589d7aacc74f3d4dfa501bcbd6ca1c82f715e259187881",
+      "Gyroscope.csv": "86bde8405630c4d71ecff84631ce7aaf590a9db0b9f1143feb317d67f57aa7fc",
+      "Linear Accelerometer.csv": "56223012fe2d8e072f1f066aa34f00e814c00a88b3cb87cc2bd9365157a4f086"
+    }
+  },
+  {
+    "sequence": "Path1_Hand_Swing02",
+    "cohort": "carrying",
+    "route": "Path1",
+    "mode": "Hand_Swing",
+    "input": "data/carrying/Path1_Hand_Swing02__synced.npz",
+    "sha256": "be4dcc18eb974add763aae2a6e640148a51ea7cc2fe25d669dffa1b63ea50f06",
+    "raw_sha256": {
+      "Accelerometer.csv": "ece7b97131c7daa20b36e8e5632df6562fc79101ce85673bc204ea5c1ed5d78c",
+      "Gyroscope.csv": "1ba4b44595b864f2ed564da9549a4e42c27674551b376b684bc3c3204c6832bf",
+      "Linear Accelerometer.csv": "5f33a0d3265a0acff7f4df85e6142d3524376751562e0904a7692435fa5fb497"
+    }
+  },
+  {
+    "sequence": "Path1_Hand_Swing03",
+    "cohort": "carrying",
+    "route": "Path1",
+    "mode": "Hand_Swing",
+    "input": "data/carrying/Path1_Hand_Swing03__synced.npz",
+    "sha256": "3644ae7e0c9ee6a48b58a3cf4499d8c6e96e073148582af317725008ab367672",
+    "raw_sha256": {
+      "Accelerometer.csv": "24fa7e7b664adc3a19bfddeef1da9cfabeaae1f1673a2663b5ebd58c1e231413",
+      "Gyroscope.csv": "f8b3be7c2bf8ce7cc0324000d5afed6f7aa44f35d40e478e4b41882f7c3cd7ee",
+      "Linear Accelerometer.csv": "17f067f317f3d0ab350650bc6eca8a07453483ea8cfe20de1c87ec1412b0cbd8"
+    }
+  },
+  {
+    "sequence": "Path1_Jacket_Pocket01",
+    "cohort": "carrying",
+    "route": "Path1",
+    "mode": "Jacket_Pocket",
+    "input": "data/carrying/Path1_Jacket_Pocket01__synced.npz",
+    "sha256": "322bca5a09e6cdfd68310fa429e9b3fb73c1c4af9c31a8ec38413ac85f138f3f",
+    "raw_sha256": {
+      "Accelerometer.csv": "1c2876d4e8b358f4ed0ae2d1067129d326c971044d6d75d5585369bbe1741662",
+      "Gyroscope.csv": "99dc8e09a2e9f6322677fe72423bb68c2025498159051e48c62904edda605f62",
+      "Linear Accelerometer.csv": "ea70f60ca040f12b2a8101671a897d976417595ad439509a664c576b07603d67"
+    }
+  },
+  {
+    "sequence": "Path1_Jacket_Pocket02",
+    "cohort": "carrying",
+    "route": "Path1",
+    "mode": "Jacket_Pocket",
+    "input": "data/carrying/Path1_Jacket_Pocket02__synced.npz",
+    "sha256": "ff3f59e9377825373305a43d44254a4697abff826defa1fc706eba54586ccb3e",
+    "raw_sha256": {
+      "Accelerometer.csv": "61a488753a5cbb8a024316a3e5dd3715599cd50b129590d75006fa68b1643a89",
+      "Gyroscope.csv": "92f0b676ac8e3cf9985c836e7dd7893be45d0bb534411a613aaa0d5a3ea5aa20",
+      "Linear Accelerometer.csv": "36319609bf858d88ed032affa9da405042db4b7b60b613985677f676277e57ba"
+    }
+  },
+  {
+    "sequence": "Path1_Jacket_Pocket03",
+    "cohort": "carrying",
+    "route": "Path1",
+    "mode": "Jacket_Pocket",
+    "input": "data/carrying/Path1_Jacket_Pocket03__synced.npz",
+    "sha256": "50113d23cf56d35e733aecf846532c626b09ad14f79baf87c2bf56210aa178a0",
+    "raw_sha256": {
+      "Accelerometer.csv": "200dd4a9e9b38c87c98cd40523d551f3c5cb6e12d9a2c7fe42e9095722e10945",
+      "Gyroscope.csv": "43d19694a5fc842b8b2fe316c4c3ba27750878bb44003046b5724424c0502327",
+      "Linear Accelerometer.csv": "1ceb76612e593f4ca9c5c3de4a97c80513ce2a60ced624a59d7a605e3bb85f70"
+    }
+  },
+  {
+    "sequence": "Path1_Trouser_Pocket01",
+    "cohort": "carrying",
+    "route": "Path1",
+    "mode": "Trouser_Pocket",
+    "input": "data/carrying/Path1_Trouser_Pocket01__synced.npz",
+    "sha256": "3fe0b65c6aedc33ec6f21ecfcc0d1d672034501ec24a6ba284d03ce5e6d2be7f",
+    "raw_sha256": {
+      "Accelerometer.csv": "966835c5da377f44b69b04c5f9c13882c2332e3f1baa89531ae77320822f4fe2",
+      "Gyroscope.csv": "287c822443e581374163d2c8f6a6d434a14f7bf7a96f328608b147678b934d43",
+      "Linear Accelerometer.csv": "573f7c3c630c121c2cd25c65864d38b0255e59bf11c5946ce337165a41a64b25"
+    }
+  },
+  {
+    "sequence": "Path1_Trouser_Pocket02",
+    "cohort": "carrying",
+    "route": "Path1",
+    "mode": "Trouser_Pocket",
+    "input": "data/carrying/Path1_Trouser_Pocket02__synced.npz",
+    "sha256": "bcba086be463b565d9fc00808d85d7b2f761da44377d74ec39521c20516fe496",
+    "raw_sha256": {
+      "Accelerometer.csv": "1fa94edfd3abc9666e9a51e2cfa0517c075865b0fb9a4f1d3f511a847f5f42f5",
+      "Gyroscope.csv": "647af28d2d060f71a0c5475bd9618bbb9ec77bb286e6ef758183cc6bcfddeb50",
+      "Linear Accelerometer.csv": "30940114bba7279e0e55a564591bf35955c9d36b528fe824bb970e7ee10c8a3d"
+    }
+  },
+  {
+    "sequence": "Path1_Trouser_Pocket03",
+    "cohort": "carrying",
+    "route": "Path1",
+    "mode": "Trouser_Pocket",
+    "input": "data/carrying/Path1_Trouser_Pocket03__synced.npz",
+    "sha256": "1f1bdf33be4994369d2832c4d943ec975b623290dbad1bdae98b8d593d781dcf",
+    "raw_sha256": {
+      "Accelerometer.csv": "45947654003625ad436dd6d3e973d1f4b2b21d756817ed08b3ead40a709f2108",
+      "Gyroscope.csv": "a0dfd0898abaeea75c97c2fa605824c108e7916bf738621bb2b446e759d27d76",
+      "Linear Accelerometer.csv": "fe7041111e8e6e7006629a5718244628ddda1ccc8f90c7144b972c1e2945da3f"
+    }
+  },
+  {
+    "sequence": "Path2_Freedom01",
+    "cohort": "carrying",
+    "route": "Path2",
+    "mode": "Freedom",
+    "input": "data/carrying/Path2_Freedom01__synced.npz",
+    "sha256": "a757c1e824aeef8f5158c9e53eaaac318227c8336bdd0400dad6b529808e3279",
+    "raw_sha256": {
+      "Accelerometer.csv": "474e34eb35c130b9cb727c39ee66c2f4e541c3c08be43fe11ce9aaba1b134b5b",
+      "Gyroscope.csv": "f2475454f02975235327b6c2bef5dfed51d89d1141315a6f2bdf4d7b0ca04ba3",
+      "Linear Accelerometer.csv": "4ee96b185a6ea24e5152515975b5954896bdf5ce60fc0140ba721efc10a53de8"
+    }
+  },
+  {
+    "sequence": "Path2_Freedom02",
+    "cohort": "carrying",
+    "route": "Path2",
+    "mode": "Freedom",
+    "input": "data/carrying/Path2_Freedom02__synced.npz",
+    "sha256": "155f3c7d3d23ca796e8b651860a56396cb21ef41cd2626ea31ecba0b61c58558",
+    "raw_sha256": {
+      "Accelerometer.csv": "c0abee614215489afe5d0edcd33ea0efa48e5f772f84ccc1897bc80f6567af2e",
+      "Gyroscope.csv": "340703f6bc5a2ad75d1330139264b9e8d283fefae089fc14dab4462127b6e64e",
+      "Linear Accelerometer.csv": "7815b5380402f21fd9a5fc74ec2337f74d210b73915b7e2c75fa1f8b4d6e22a6"
+    }
+  },
+  {
+    "sequence": "Path2_Freedom03",
+    "cohort": "carrying",
+    "route": "Path2",
+    "mode": "Freedom",
+    "input": "data/carrying/Path2_Freedom03__synced.npz",
+    "sha256": "4672cf1ce69c5f91329d45ec26714da5894bfbd3c576f19c470b3bebf04032d8",
+    "raw_sha256": {
+      "Accelerometer.csv": "82908d3af4d057d9bb409fe9fecf2856e107a6f59b4e23893d9e98dfac91e9cf",
+      "Gyroscope.csv": "f4fbbd80c51be2273b1cbebddfb6549c8cefbf2e2f7f5a0b56619eb9d2312108",
+      "Linear Accelerometer.csv": "17bb83891b92ebf8acc3a0e821db1b569648956b5d81f21f434a6c1e232de8a5"
+    }
+  },
+  {
+    "sequence": "Path2_Hand_Swing01",
+    "cohort": "carrying",
+    "route": "Path2",
+    "mode": "Hand_Swing",
+    "input": "data/carrying/Path2_Hand_Swing01__synced.npz",
+    "sha256": "a4e14a52d2d810fbf99cb621535738c8f07698ee9651fbba254026524eb67a22",
+    "raw_sha256": {
+      "Accelerometer.csv": "8ef91394e9fc856a2ef31ba83ff821e2d0a4bfbe3238c50566331aa62041d855",
+      "Gyroscope.csv": "64082b4140d1d6fead78cb4a3489d5f129d7f3ba0381c98f5d664a908c235107",
+      "Linear Accelerometer.csv": "9b890ebc8d41d71cc32c346b1ec2232a9cd5b70b023941d7e84aecf6c4348c9a"
+    }
+  },
+  {
+    "sequence": "Path2_Hand_Swing02",
+    "cohort": "carrying",
+    "route": "Path2",
+    "mode": "Hand_Swing",
+    "input": "data/carrying/Path2_Hand_Swing02__synced.npz",
+    "sha256": "2f18ead919e4e4e9b99aaa5c5f48edbc0e3dcafb4cac50403c6707ec5c14acc2",
+    "raw_sha256": {
+      "Accelerometer.csv": "1cd795ccf5d4fdd417488053d9d22dd322720288d7e1183ea46f8e166c1fd2bf",
+      "Gyroscope.csv": "dccb701cc88ca06f9f60675dab71223ac253b3ecfe6bf06d4602e9d84cfcf129",
+      "Linear Accelerometer.csv": "12985ff3c6c83c7669ee2d6b8b567de4136ab5c657db5e6e47d68909b621ddbc"
+    }
+  },
+  {
+    "sequence": "Path2_Hand_Swing03",
+    "cohort": "carrying",
+    "route": "Path2",
+    "mode": "Hand_Swing",
+    "input": "data/carrying/Path2_Hand_Swing03__synced.npz",
+    "sha256": "7028dba587b5128e9698e09e5654c9a90a6a59bee2c0e437017135728796b15d",
+    "raw_sha256": {
+      "Accelerometer.csv": "1644d7a4a146f3a6351b9314254a255d0ad4e8d579025132bffac1e05d7ca691",
+      "Gyroscope.csv": "d97b3f73772f20a6b86c5ad3d94c71f3ac21bfb0629bd267adef38958741f13d",
+      "Linear Accelerometer.csv": "3eb1109921e465247ee8d1a77e6e882fb1beef08ed537a21f36cebae514e32d9"
+    }
+  },
+  {
+    "sequence": "Path2_Jacket_Pocket01",
+    "cohort": "carrying",
+    "route": "Path2",
+    "mode": "Jacket_Pocket",
+    "input": "data/carrying/Path2_Jacket_Pocket01__synced.npz",
+    "sha256": "e781ff3efdc82145c97401a730bd2d1be4e0b8ab5881ffd7e77ca03df9806268",
+    "raw_sha256": {
+      "Accelerometer.csv": "ffb02abcfb11f8721af68983b57ba7764db7d7a9be95fa08042b9343818fc9bb",
+      "Gyroscope.csv": "4a90f20bdbb15e3c6f2ed822ee54c91c89bac690bea44e06e21004a35716a11e",
+      "Linear Accelerometer.csv": "b35e1428967acc7426d9c72074e9bc6cba36418710161a392fe7b2663b955505"
+    }
+  },
+  {
+    "sequence": "Path2_Jacket_Pocket02",
+    "cohort": "carrying",
+    "route": "Path2",
+    "mode": "Jacket_Pocket",
+    "input": "data/carrying/Path2_Jacket_Pocket02__synced.npz",
+    "sha256": "0d7e1f54fd11dd7fc11eb9430bdf816ad9e280318a673a17d8e7d792c4f16457",
+    "raw_sha256": {
+      "Accelerometer.csv": "88e76988aca75b2db6f3e911ac169842dcf82ce820cf6adf2b96a7a7bc82b666",
+      "Gyroscope.csv": "a232fd9dbb5479758272b3019c5aeeaaaf3fe8a0e8c61d47efbb7e6afabf51b9",
+      "Linear Accelerometer.csv": "78d06be34a0e804fcad9f4eec44525dd7ff43bad1d0f23e85a566621791e908a"
+    }
+  },
+  {
+    "sequence": "Path2_Jacket_Pocket03",
+    "cohort": "carrying",
+    "route": "Path2",
+    "mode": "Jacket_Pocket",
+    "input": "data/carrying/Path2_Jacket_Pocket03__synced.npz",
+    "sha256": "b7fa819bc0284aa37635f1a0e635977e8c15498ea5b7b5ecc6152ad094cd7ce0",
+    "raw_sha256": {
+      "Accelerometer.csv": "e1d6b3293a8466a3fd7db66ccb4fd6a365ab1a9b6bfd4a57bb1dfac06d2db7d6",
+      "Gyroscope.csv": "0d0aade6d80c53dc3b8f1faa58699c30e5d8cf2152a866690212f31f53a55bad",
+      "Linear Accelerometer.csv": "181ea69abfd04f265e4286b6d32cda22045acc36f640d0e23435e0056068a510"
+    }
+  },
+  {
+    "sequence": "Path2_Trouser_Pocket01",
+    "cohort": "carrying",
+    "route": "Path2",
+    "mode": "Trouser_Pocket",
+    "input": "data/carrying/Path2_Trouser_Pocket01__synced.npz",
+    "sha256": "c186089afa070c6007a665df2ae93dcabd076af5e7fa06e1ee617338a065e0df",
+    "raw_sha256": {
+      "Accelerometer.csv": "332c0739da3b62877b2651ddf7d63715b143e11edc5d696e4ecefb7bbec4b595",
+      "Gyroscope.csv": "c95f30a17ed5a382694a19ffb092e0b60db50c05c77bcd67b04a653c011e1939",
+      "Linear Accelerometer.csv": "b8b4e6a6f0d1cd05cd5ae3a899dc5d8ec9ac36d39b99ada841f92c8f46286194"
+    }
+  },
+  {
+    "sequence": "Path2_Trouser_Pocket02",
+    "cohort": "carrying",
+    "route": "Path2",
+    "mode": "Trouser_Pocket",
+    "input": "data/carrying/Path2_Trouser_Pocket02__synced.npz",
+    "sha256": "00a89db45e6ddd89c20ca5b905e496bb06ad83c5fb15cacb6ceeb5bfdbe5bf8e",
+    "raw_sha256": {
+      "Accelerometer.csv": "8058e3a256454a3b96a1f6aeecdd185f1edc9c1637251a0cc0abb250705e5b8f",
+      "Gyroscope.csv": "25319ec2ace03a548f6e72435f97d99b52e72c78dcca2103a2d31f22d6cd6499",
+      "Linear Accelerometer.csv": "b07f923949e04d1b3a956dceec88e7914355145a04847eb524ad7b8a918940a6"
+    }
+  },
+  {
+    "sequence": "Path2_Trouser_Pocket03",
+    "cohort": "carrying",
+    "route": "Path2",
+    "mode": "Trouser_Pocket",
+    "input": "data/carrying/Path2_Trouser_Pocket03__synced.npz",
+    "sha256": "820ccec9f19108a6a4b19a5501cc264b27aac8c6c32742e8550405bb29377a36",
+    "raw_sha256": {
+      "Accelerometer.csv": "ccf92fee5e288de997c43036c8aea3792d2b10ac982b9fb31aefcd7c8797d820",
+      "Gyroscope.csv": "5060f43a715ec98d6819cf0c0f4dbfaa4c0008f3c34bfa6bacd510d417b65d6d",
+      "Linear Accelerometer.csv": "073c7359275522038384fb0874e799113e4d96b52e9026f7faf250ec9a990080"
+    }
+  },
+  {
+    "sequence": "Path3_Freedom01",
+    "cohort": "carrying",
+    "route": "Path3",
+    "mode": "Freedom",
+    "input": "data/carrying/Path3_Freedom01__synced.npz",
+    "sha256": "8cef886853880141d36105104fd1ae8d9994e34d36fdd56d52a85ce19af8e233",
+    "raw_sha256": {
+      "Accelerometer.csv": "288af7ee1093da3605c6c026f5695086c1c62aac234db32c0d5678b9d2b5e876",
+      "Gyroscope.csv": "68f02fc1c1528687a1e6449e16f640eb63def449ec73740798883802f8295363",
+      "Linear Accelerometer.csv": "4c5f4afa2d4515ea26396df91629605c004ba08a909159f7bf4744ace7ee36a0"
+    }
+  },
+  {
+    "sequence": "Path3_Freedom02",
+    "cohort": "carrying",
+    "route": "Path3",
+    "mode": "Freedom",
+    "input": "data/carrying/Path3_Freedom02__synced.npz",
+    "sha256": "b204d7f6da40d5ef2d7ef98730ee3a1b74c39fd1b3f48d76832c425179221fcd",
+    "raw_sha256": {
+      "Accelerometer.csv": "e92dcd0e27d2c59b26263c095ea63c0399057337e6737e585fdcea2d26db8609",
+      "Gyroscope.csv": "933afc4916dcd632d7b253bd464510211014f440084d2a0e75278c1a63d462de",
+      "Linear Accelerometer.csv": "f12f1cbd9d082da1e065e011dd6eea005af62f36f30d380eb43f6f3fd27d27b3"
+    }
+  },
+  {
+    "sequence": "Path3_Freedom03",
+    "cohort": "carrying",
+    "route": "Path3",
+    "mode": "Freedom",
+    "input": "data/carrying/Path3_Freedom03__synced.npz",
+    "sha256": "69b8dee1afad4c58af83631a7f9fc229065053c2cff0a035184c4b20cf511f91",
+    "raw_sha256": {
+      "Accelerometer.csv": "37cbb96201ff5a712cbaba55f2de3dc02b26de44212f7e04c05ee4481d7e9e3c",
+      "Gyroscope.csv": "939485e2a4a855605e9f0a5e19af437492e13a705c64f6d42d19faa700e36498",
+      "Linear Accelerometer.csv": "27cb16c78028c56ecd2258af338bff9787bd488e9ce3c4dc00e3da9dc4fe20d5"
+    }
+  },
+  {
+    "sequence": "Path3_Hand_Swing01",
+    "cohort": "carrying",
+    "route": "Path3",
+    "mode": "Hand_Swing",
+    "input": "data/carrying/Path3_Hand_Swing01__synced.npz",
+    "sha256": "b566dac1245aaf34d82069d523a2ab0db7d3e7d05efded711ee1a0e2075c6b1a",
+    "raw_sha256": {
+      "Accelerometer.csv": "0b6b92270c6ebbe3076253377a0ff112ad3920313c78140e217cdb7a3dcb852c",
+      "Gyroscope.csv": "63323641f5aa6c564e25fb0fdbe55d526d83cfc6dff465aca4f9a3d1290b9231",
+      "Linear Accelerometer.csv": "800b454669ec5a0df62764728bc7bd94830885049e92768ba5744736d462c0c4"
+    }
+  },
+  {
+    "sequence": "Path3_Hand_Swing02",
+    "cohort": "carrying",
+    "route": "Path3",
+    "mode": "Hand_Swing",
+    "input": "data/carrying/Path3_Hand_Swing02__synced.npz",
+    "sha256": "8c283cebd897bcd73d45ff64e46e1d6ef75fc5990c06dff9754caa824fe61d33",
+    "raw_sha256": {
+      "Accelerometer.csv": "a768574febc1faa104f8fa47d3df5c5496e42af7710e12d25d9b0ed230a797c7",
+      "Gyroscope.csv": "376eba0ad143f094526401074a9cfe848714bd2acb51d6f65c3f49af6d618192",
+      "Linear Accelerometer.csv": "0308a28e6938efd150dc687454a40a147ce0f34fea9daf8e24599d2720425867"
+    }
+  },
+  {
+    "sequence": "Path3_Hand_Swing03",
+    "cohort": "carrying",
+    "route": "Path3",
+    "mode": "Hand_Swing",
+    "input": "data/carrying/Path3_Hand_Swing03__synced.npz",
+    "sha256": "b6cb1ccaed9821c5d04421f3293e94dda928ffc81947211594e3807fc4d95215",
+    "raw_sha256": {
+      "Accelerometer.csv": "594ecd88b939175b4a72af072be6943b0e995758351f605ca65d04f84438ac41",
+      "Gyroscope.csv": "cb51b6925dd3b86daade05673846b37c941f9b6c7e7c4bbc155f1764b1082603",
+      "Linear Accelerometer.csv": "cb305376d6564b54d6a45bc1c9a7b51556d1510e2697fcc3ac3927e4f22611b8"
+    }
+  },
+  {
+    "sequence": "Path3_Jacket_Pocket01",
+    "cohort": "carrying",
+    "route": "Path3",
+    "mode": "Jacket_Pocket",
+    "input": "data/carrying/Path3_Jacket_Pocket01__synced.npz",
+    "sha256": "d91c50e11fbe4850639e2509d34944e2539f490580726b66af0f520da073eb13",
+    "raw_sha256": {
+      "Accelerometer.csv": "34278a1faf4c6883085bdc0fc7d0d348bee903c1d51d1cd4b6185d8f9af37e3a",
+      "Gyroscope.csv": "2db94b8f532fba2b28c7d45261008e28515399ea0baba8cee632313046df6a1b",
+      "Linear Accelerometer.csv": "aa533d1fb68a8e1e1033282af0a15a1694ee6d87e8976bd20a4add65722e7242"
+    }
+  },
+  {
+    "sequence": "Path3_Jacket_Pocket02",
+    "cohort": "carrying",
+    "route": "Path3",
+    "mode": "Jacket_Pocket",
+    "input": "data/carrying/Path3_Jacket_Pocket02__synced.npz",
+    "sha256": "62488d4ccf3e6de809c307ad9c5bcb408d8316c51364bf8a2441455df0d59ef8",
+    "raw_sha256": {
+      "Accelerometer.csv": "c61ca37651b0888069fbd7649f5e5a89c01d37ddd8c9ea5bf68a2ff54db89fe6",
+      "Gyroscope.csv": "16e660ffda1de484465048f5aeb5132bbdf03d91ce647957933cf237166964b2",
+      "Linear Accelerometer.csv": "dae27a6b071e82539e25c398a58154142d4eab83b15d88a66098525ec72d5e62"
+    }
+  },
+  {
+    "sequence": "Path3_Jacket_Pocket03",
+    "cohort": "carrying",
+    "route": "Path3",
+    "mode": "Jacket_Pocket",
+    "input": "data/carrying/Path3_Jacket_Pocket03__synced.npz",
+    "sha256": "b288823c6e195dda4cb08b0570684d654e91a5f30a24b56822f48096345516a4",
+    "raw_sha256": {
+      "Accelerometer.csv": "da8b77ff0852a50f198bbdb6a89fbb3aca4c2733d7381d92d8d62fad23fd1a8d",
+      "Gyroscope.csv": "eb3e21dc2d667e393516a58d3376220d27a9b07541a4174f2d76389f72f49c10",
+      "Linear Accelerometer.csv": "165ce24e9e63744175a053ff97d6bf436179d3cfe7e6ae1dd2c90a2f34adc54b"
+    }
+  },
+  {
+    "sequence": "Path3_Trouser_Pocket01",
+    "cohort": "carrying",
+    "route": "Path3",
+    "mode": "Trouser_Pocket",
+    "input": "data/carrying/Path3_Trouser_Pocket01__synced.npz",
+    "sha256": "ed419a4e87289d571cbe3f7f65e898200451ef24a967af49497db77180943bc9",
+    "raw_sha256": {
+      "Accelerometer.csv": "6bc07d436922a87be3506d2bdb29df235ba345a282fd3efc0a6b65046f332c2c",
+      "Gyroscope.csv": "539409d9fa406146a791ddf165d15c29d5905e85142245c73a977a97262c7833",
+      "Linear Accelerometer.csv": "672bc5761dc1cc9cf6e13466af6bcd06f6c219c408e8b43046046f4b64345c76"
+    }
+  },
+  {
+    "sequence": "Path3_Trouser_Pocket02",
+    "cohort": "carrying",
+    "route": "Path3",
+    "mode": "Trouser_Pocket",
+    "input": "data/carrying/Path3_Trouser_Pocket02__synced.npz",
+    "sha256": "509b1660aa33c7fdc0e1e2be473f65588817de5ca4e3f4611c2233f7d7db70bc",
+    "raw_sha256": {
+      "Accelerometer.csv": "e9668ce925d8ce94c6ab81c89cc9eb758ad359ea42e0260fe196351763a72c2b",
+      "Gyroscope.csv": "005e7b504a21fce385f6dd0118bdd750e5e2518aabda0014c144c3c31c670fc4",
+      "Linear Accelerometer.csv": "de9ea186996967401d21d1750c3160c13c3bfbcebd6ce78e87aab2cd826f70c3"
+    }
+  },
+  {
+    "sequence": "Path3_Trouser_Pocket03",
+    "cohort": "carrying",
+    "route": "Path3",
+    "mode": "Trouser_Pocket",
+    "input": "data/carrying/Path3_Trouser_Pocket03__synced.npz",
+    "sha256": "6c39431e57e663262c34ae44016278c22b871661686288ef2643a47326b89529",
+    "raw_sha256": {
+      "Accelerometer.csv": "ff39f527cb7a279ad863a8e6f4299aa746b59f7a9898ab680bac59f4312710c0",
+      "Gyroscope.csv": "0d3b6a554d4ad98b98058565ec4416f1d7f9709badd250598fb1efb927fd1a2f",
+      "Linear Accelerometer.csv": "0a931848d890e8ab8d1d44106a93a88d5200cdcf4c1ada474318d230ac24f8f8"
+    }
+  }
+]

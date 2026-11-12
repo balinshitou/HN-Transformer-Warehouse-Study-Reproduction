@@ -1,0 +1,31 @@
+{
+  "checkpoint": "models/A6_huber_gnorm.pt",
+  "checkpoint_sha256": "d0b80db0e60f03baf0a5a0722bc1c5735ecc8b21daf6c493e17a00732908ed2b",
+  "pdr_seed": 0,
+  "pdr": {
+    "window_size": 6,
+    "slide_size": 3,
+    "cutoff_hz": 8.0,
+    "filter_order": 1,
+    "legacy_fs_hz": 100.0,
+    "initial_value": 0.0,
+    "initial_probability": 1000.0,
+    "process_variance": 1.0,
+    "measurement_variance": 50.0,
+    "peak_threshold": 0.2,
+    "step_P": 0.4,
+    "step_K": 0.9,
+    "initial_step_min_m": 0.6,
+    "initial_step_max_m": 0.75,
+    "step_amplitude_min": 0.2,
+    "step_amplitude_max": 2.5
+  },
+  "reference_sha256": {
+    "Path1_reference_dense.csv": "49c72344c847d29f1d27ab38819b1588b782d4e8e7a1c2a5e25c19fceaef2421",
+    "Path1_reference_polyline.csv": "d1df01b231739b28ba99f0c5eac376da8c139cba6f7a9e2fdbf70a771b1ca6b4",
+    "Path2_reference_dense.csv": "65bf2d1c5961c9823e7eb3691881a4f67b1c6ac7bbcdae4734a6ee9f535368a3",
+    "Path2_reference_polyline.csv": "25bcaf93e33452d3eeedded42bcce163be2c32d907660de56f216dc0764af70d",
+    "Path3_reference_dense.csv": "0414f44a820f489149e982413ceb1a6a6b3a87899b2e02a672800b4faf60b758",
+    "Path3_reference_polyline.csv": "4e7ca8ef87c9731cb0dba52b2d886949e34a55486771eea34f1325ea22c74341"
+  }
+}
